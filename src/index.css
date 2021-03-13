@@ -1,0 +1,12 @@
+body{
+    font-family: 'Arial';
+    font-weight: 300;
+    font-size: 2rem;
+    background-color: #141414;
+    color: azure;
+    text-align: center;
+}
+
+h1,h2{
+    font-weight: 300;
+}
